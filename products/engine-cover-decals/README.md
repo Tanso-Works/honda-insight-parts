@@ -1,6 +1,6 @@
 # Engine Cover Decals — ZE1 Honda Insight
 
-Overlay decals for the IMA engine cover on the Honda Insight (ZE1 generation).
+Overlay decals for the IMA engine cover on the Honda Insight (ZE1).
 
 ## Variants
 
@@ -14,13 +14,18 @@ Overlay decals for the IMA engine cover on the Honda Insight (ZE1 generation).
 
 | Parameter | Recommendation |
 |---|---|
-| Material | TPU 95A (or higher) |
+| Material | ASA |
 | Layer height | 0.12mm (or 0.08mm for finer text) |
 | Supports | None needed |
 | Orientation | Lettering facing up |
-| Bed temp | 45-60°C (PEI) |
+| Bed temp | 90-110°C |
+| Enclosure | Required |
 | Nozzle | 0.4mm |
 | Post-processing | Scissors / snips to remove small brim if any |
+
+## Why ASA?
+
+These decals sit on the IMA engine cover and see under-hood temperatures — ASA handles engine bay heat without warping or degrading.
 
 ## Installation
 
@@ -33,9 +38,9 @@ Overlay decals for the IMA engine cover on the Honda Insight (ZE1 generation).
 
 | File | Description |
 |---|---|
-| `stl/power-of-dreams.stl` | Power of Dreams variant — STL |
-| `stl/oe-ima.stl` | OE IMA style — STL |
-| `stl/parody-ima.stl` | Parody IMA — STL |
+| `stl/power-of-dreams.stl` | Power of Dreams variant |
+| `stl/oe-ima.stl` | OE IMA style |
+| `stl/parody-ima.stl` | Parody IMA |
 | `cad/` | Source CAD files (STEP / Fusion 360) |
 
 ## Images
