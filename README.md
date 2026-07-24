@@ -41,12 +41,14 @@ Each product folder contains a `README.md` with recommended print settings (mate
 
 ## 📜 License
 
-All files in this repository are licensed under **CC BY-NC 4.0** unless otherwise noted.
+All files in this repository are licensed under **CC BY 4.0** unless otherwise noted.
 
 You are free to:
-- ✅ Download and print for personal use
-- ✅ Share and remix with attribution
-- ❌ **Not** sell the digital files or printed parts commercially
+- ✅ Download and print for personal use or commercial sale
+- ✅ Share, remix, and modify with attribution
+- ❌ **Not** resell the digital files themselves
+
+Credit must be given — a link back to Tanso Works or this repository is appreciated.
 
 See [LICENSE](./LICENSE) for full terms.
 
