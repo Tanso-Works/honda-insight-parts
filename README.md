@@ -11,6 +11,7 @@ Founded by Matt — building Insight parts since 2023. Everything here is free t
 | Product | Description | Materials | Link |
 |---|---|---|---|
 | **Engine Cover Decals** | ZE1 IMA engine cover overlay decals — Power of Dreams, OE IMA, and Parody variants | ASA | [Details →](./products/engine-cover-decals/) |
+| **HVAC Temp Knob D-Shaft Coupler** | Replacement D-shaft coupler for the broken ZE1 temp-control knob — original design by jpwhitney (Insight Central) | PETG | [Details →](./products/hvac-temp-knob-repair/) |
 | *(more coming soon)* | | | |
 
 ## 🔬 3D Scans
