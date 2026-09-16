@@ -12,6 +12,7 @@ Founded by Matt — building Insight parts since 2023. Everything here is free t
 |---|---|---|---|
 | **Engine Cover Decals** | ZE1 IMA engine cover overlay decals — Power of Dreams, OE IMA, and Parody variants | ASA | [Details →](./products/engine-cover-decals/) |
 | **HVAC Temp Knob D-Shaft Coupler** | Replacement D-shaft coupler for the broken ZE1 temp-control knob — original design by jpwhitney (Insight Central) | PETG | [Details →](./products/hvac-temp-knob-repair/) |
+| **ZE1 Belly Pan** | Under-body aluminum aero undertray — cuts under-car drag & shields drivetrain vitals | 5052 Aluminum | [Details →](./products/belly-pan/) |
 | *(more coming soon)* | | | |
 
 ## 🔬 3D Scans
